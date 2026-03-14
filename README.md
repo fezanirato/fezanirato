@@ -1,5 +1,5 @@
 # Bem-vindo ao meu perfil! 👋
-
+ 
 Sou um profissional apaixonado por tecnologia, mais especificamente pela área de dados. Atualmente desenvolvi projetos próprios nas linguagens e ferramentas: Python, SQL, Power BI, Excel e IA. 
 Atualmente estou em busca da minha primeira oportunidade de estágio/analista júnior na área de dados.
 
