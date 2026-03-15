@@ -7,7 +7,7 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 
 - 🔭 Graduado em Engenharia de Produção pela USCS (Julho/2023), em transição para a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga (2º Semestre).
 - 🎯 Projetos desenvolvidos em SQL, Power BI, Python e Excel.
-- 🚀 Falo português, espanhol e inglês fluentemente.
+- 🚀 Falo português, espanhol e inglês.
 - 💼 Atualmente estou em busca de oportunidades de estágio/júnior na área de dados.
 
 ## Linguagens e Ferramentas Praticadas 🚀
