@@ -3,7 +3,7 @@
 Sou um profissional apaixonado por tecnologia, mais especificamente pela área de programação e dados. Atualmente desenvolvi projetos próprios nas linguagens e ferramentas: Python, SQL, Power BI, Excel e IA. 
 Atualmente estou em busca da minha primeira oportunidade de estágio/analista júnior na área de dados.
 
-## Sobre Mim 🙂
+## Sobre Mim
 
 - 🔭 Graduado em Engenharia de Produção pela USCS (Julho/2023), em transição para a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga (2º Semestre).
 - 🎯 Projetos desenvolvidos em SQL, Power BI, Python e Excel.
