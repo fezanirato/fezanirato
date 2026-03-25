@@ -1,7 +1,7 @@
 # Resumo 
  
 Sou um profissional apaixonado por tecnologia, mais especificamente pela área de programação e dados. Atualmente desenvolvi projetos próprios nas linguagens e ferramentas: Python, SQL, Power BI, Excel e IA. 
-Atualmente estou em busca da minha primeira oportunidade de estágio/analista júnior na área de dados. 
+Atualmente estou em busca da minha primeira oportunidade de estágio/analista júnior na área. 
 
 ## Sobre Mim
 
