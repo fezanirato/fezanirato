@@ -1,14 +1,13 @@
 # Resumo 
  
-Sou um profissional apaixonado por tecnologia, mais especificamente pela área de programação e dados. Atualmente desenvolvi projetos próprios nas linguagens e ferramentas: Python, SQL, Power BI, Excel e IA. 
+Sou um profissional apaixonado por tecnologia, mais especificamente pela área de programação e dados. Atualmente desenvolvi projetos próprios nas linguagens e ferramentas: Python, SQL, Power BI, Excel, IA e Javascript.
 Atualmente estou em busca da minha primeira oportunidade de estágio/analista júnior na área. 
 
 ## Sobre Mim
 
-- 🔭 Graduado em Engenharia de Produção pela USCS (Julho/2023), em transição para a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga (2º Semestre).
+- 🔭 Graduado em Engenharia de Produção pela USCS (Julho/2023) e cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga (2º Semestre).
 - 🎯 Projetos desenvolvidos em SQL, Power BI, Python e Excel.
 - 🚀 Falo português, espanhol e inglês.
-- 💼 Atualmente estou em busca de oportunidades de estágio/júnior na área de dados.
 
 ## Linguagens e Ferramentas Praticadas
 
@@ -18,13 +17,13 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 
 ### 🐍 Projetos em Python
 Conjunto de projetos práticos que aplicam Python em diferentes áreas: automação de processos, análise de dados, machine learning e inteligência artificial.
-Incluem desde o cadastro automático de produtos até análises de clientes e a criação de um chatbot interativo com IA.
+Incluem o cadastro automático de produtos em um website, análises de cancelamento de assinatura de clientes, treinamento de algoritmo para tomada de desicões e a criação de um chatbot interativo com IA.
 
 ### 📊 Projetos em Power BI
 
-Repositório com projetos de **análise de dados e visualização em Power BI**, desenvolvidos para aprimorar a tomada de decisão e o monitoramento de indicadores de negócio em diferentes áreas: **Financeira, Logística e Vendas**.
+Repositório com projetos de análise de dados e visualização em Power BI, desenvolvidos para aprimorar a tomada de decisão e o monitoramento de indicadores de negócio em diferentes áreas: Financeira, Logística e Vendas.
 
-Cada dashboard foi construído a partir de um **business case realista**, aplicando conceitos de **modelagem e tratamento de dados, linguagem DAX, criação de KPIs e storytelling visual**.
+Cada dashboard foi construído a partir de um caso de negócios realista, aplicando conceitos de modelagem e tratamento de dados, linguagem DAX, criação de KPIs e storytelling visual.
 
 ### 💻 Sistema de Cadastro de Funcionários com VBA no Excel
 
