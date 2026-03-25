@@ -10,11 +10,11 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 - 🚀 Falo português, espanhol e inglês.
 - 💼 Atualmente estou em busca de oportunidades de estágio/júnior na área de dados.
 
-## Linguagens e Ferramentas Praticadas 🚀
+## Linguagens e Ferramentas Praticadas
 
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,js,html,css)](https://skillicons.dev)
 
-## Projetos Destaques 🏆
+## Projetos Destaques
 
 ### 🐍 Projetos em Python
 Conjunto de projetos práticos que aplicam Python em diferentes áreas: automação de processos, análise de dados, machine learning e inteligência artificial.
@@ -35,7 +35,7 @@ Aplicação desenvolvida em VBA para gerenciar funcionários, escolas e EPIs dir
 Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript puro. Permite adicionar, marcar como concluída e excluir tarefas, armazenando os dados no localStorage.
 
 
-## Contato 📬
+## Contato
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
