@@ -15,21 +15,21 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 
 ## Projetos Destaques
 
-### 🐍 Projetos em Python
+### Projetos em Python
 Conjunto de projetos práticos que aplicam Python em diferentes áreas: automação de processos, análise de dados, machine learning e inteligência artificial.
 Incluem o cadastro automático de produtos em um website, análises de cancelamento de assinatura de clientes, treinamento de algoritmo para tomada de desicões e a criação de um chatbot interativo com IA.
 
-### 📊 Projetos em Power BI
+### Projetos em Power BI
 
 Repositório com projetos de análise de dados e visualização em Power BI, desenvolvidos para aprimorar a tomada de decisão e o monitoramento de indicadores de negócio em diferentes áreas: Financeira, Logística e Vendas.
 
 Cada dashboard foi construído a partir de um caso de negócios realista, aplicando conceitos de modelagem e tratamento de dados, linguagem DAX, criação de KPIs e storytelling visual.
 
-### 💻 Sistema de Cadastro de Funcionários com VBA no Excel
+### Sistema de Cadastro de Funcionários com VBA no Excel
 
 Aplicação desenvolvida em VBA para gerenciar funcionários, escolas e EPIs diretamente no Excel. O sistema implementa operações CRUD, com UserForms interativos, validação de dados e automação de planilhas, oferecendo uma solução prática e eficiente para controle administrativo.
 
-### 📝 To-Do List com HTML, CSS e JavaScript
+### To-Do List com HTML, CSS e JavaScript
 
 Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript puro. Permite adicionar, marcar como concluída e excluir tarefas, armazenando os dados no localStorage.
 
